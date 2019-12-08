@@ -39,6 +39,7 @@ end
 spots = 0
 def play(board)
   while spots <= 9
+  turn(board)
   spots += 1
   end
 end
