@@ -40,6 +40,6 @@ spots = 0
 def play(board)
   until spots == 9
   spots += 1
-    turn(board)
+  turn(board)
   end
 end
