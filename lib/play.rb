@@ -38,6 +38,6 @@ end
 # Define your play method below
 spots = 0
 def play(board)
-  until spots == 9
-  
+  while spots < 9
+  end
 end
