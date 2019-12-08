@@ -36,6 +36,7 @@ def turn(board)
 end
 
 # Define your play method below
+spots = 0
 def play(board)
   
 end
