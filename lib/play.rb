@@ -39,7 +39,7 @@ end
 spots = 0
 def play(board)
   until spots == 9
-  turn(board)
   spots += 1
+    turn(board)
   end
 end
